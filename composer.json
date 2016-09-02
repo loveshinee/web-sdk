@@ -1,5 +1,5 @@
 {
-    "name": "xnhd/web-sdk",
+    "name": "myphp/web-sdk",
     "description": "MYSELF WEB SDK.",
     "keywords": ["web", "sdk"],
     "license": "MIT",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Xnhd\\WebSdk\\": "src/"
+          "Myphp\\WebSdk\\": "src/"
         },
         "files": [
         ]

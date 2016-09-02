@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-          "myphp\\Web-Sdk\\": "src/"
+          "Myphp\\Web-Sdk\\": "src/"
         },
         "files": [
         ]

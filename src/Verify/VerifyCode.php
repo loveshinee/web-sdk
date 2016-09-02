@@ -1,5 +1,5 @@
 <?php
-namespace Myphp\WebSdk\Verify;
+namespace Xnhd\WebSdk\Verify;
 class VerifyCode{
 
 	//资源

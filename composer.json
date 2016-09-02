@@ -1,0 +1,31 @@
+{
+    "name": "myphp/self-sdk",
+    "description": "MYSELF WEB SDK.",
+    "keywords": ["web", "sdk"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "loveshinee",
+            "email": "415365083@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+          "Web-Sdk\\": "src/"
+        },
+        "files": [
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

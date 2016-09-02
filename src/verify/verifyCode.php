@@ -1,5 +1,5 @@
 <?php
-namespace WebSdk\Verify;
+namespace Myphp\WebSdk\Verify;
 
 class Code{
 

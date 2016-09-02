@@ -1,7 +1,7 @@
 <?php
 namespace Myphp\WebSdk\Verify;
 
-class Code{
+class VerifyCode{
 
 	//资源
 	private $img;

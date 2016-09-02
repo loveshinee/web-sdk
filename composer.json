@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "php": ">=5.5.9"
     },
     "require-dev": {
     },
@@ -17,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Myphp\\Web-Sdk\\": "src/"
+          "Verify\\": "src/Verify"
         },
         "files": [
         ]
